@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    printf("Ha ha Hello, World!\n");
+    //Do przetestowania
+    printf("Ha ha [Hello, World!]\n");
 
     printf("opcja 1");
     printf("opcja 2");
